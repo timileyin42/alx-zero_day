@@ -1,1 +1,1 @@
-working with git repo
+the journey with alx begun
