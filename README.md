@@ -1,1 +1,1 @@
-my first readme
+the jorney has begun with ALX
